@@ -1,0 +1,479 @@
+[
+  {
+    "id": "1",
+    "text": "Heri Kukosa upate, Kuliko Kupata Ukose",
+    "meaning": "Wanetu tusivikimbilie vitu tusivyo viweza kuvimudu, Kwa sababu tutavipoteza, Tutulie za kwetu zipo njiani ni swala la mda tu!",
+    "source": "Dibaji za leo",
+    "enText": "It is better to miss and get, than to get and miss.",
+    "enMeaning": "Let us not rush for things we cannot afford, because we will lose them. Let us be patient, ours are on the way, it's just a matter of time!",
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "text": "Kuna Mungu Eeeh, anaabudiwa.",
+    "meaning": "Tumweke mungu mbele kwa kila jambo tunalofanya, na tutashinda kupitia yeye.",
+    "source": "Dibaji za kwanngu",
+    "enText": "There is God, He is worshiped.",
+    "enMeaning": "Put God first in everything we do, and we will prevail through Him.",
+    "createdAt": "2025-01-02T00:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "text": "Wanetu eeh tuwe na subira.",
+    "meaning": "Subira na uvumilivu huleta matokeo mazuri; usikate tamaa mapema.",
+    "source": "Dibaji za kwanngu",
+    "enText": "Let us be patient.",
+    "enMeaning": "Patience and perseverance bring good results; don't give up early.",
+    "createdAt": "2025-01-03T00:00:00.000Z"
+  },
+  {
+    "id": "4",
+    "text": "Wanetu eeh tuwe na Ukiasi.",
+    "meaning": "Wanetu tujifunze kurithika na kile kidogo, tule kwa urefu wa kamba zetu.",
+    "source": "Dibaji za kwanngu",
+    "enText": "Let us be content and moderate.",
+    "enMeaning": "Let us learn to be satisfied with the little we have; live within our means.",
+    "createdAt": "2025-01-04T00:00:00.000Z"
+  },
+  {
+    "id": "5",
+    "text": "Haba na haba hujaza kibaba.",
+    "meaning": "Ukiweka kidogo kidogo kila siku, mwishowe utafanikiwa na kufikia malengo.",
+    "source": "Methali",
+    "enText": "Little by little fills the measure.",
+    "enMeaning": "Small consistent efforts accumulate into big results over time.",
+    "createdAt": "2025-01-05T00:00:00.000Z"
+  },
+  {
+    "id": "6",
+    "text": "Haraka haraka haina baraka.",
+    "meaning": "Kufanya mambo kwa pupa kunaweza kuleta makosa na hasara.",
+    "source": "Methali",
+    "enText": "Haste has no blessing.",
+    "enMeaning": "Rushing often leads to mistakes and losses.",
+    "createdAt": "2025-01-06T00:00:00.000Z"
+  },
+  {
+    "id": "7",
+    "text": "Bandu bandu humaliza gogo.",
+    "meaning": "Kazi kubwa hukamilika kwa hatua ndogo ndogo zinazofuata.",
+    "source": "Methali",
+    "enText": "Little by little finishes the log.",
+    "enMeaning": "Big work gets done through small steady steps.",
+    "createdAt": "2025-01-07T00:00:00.000Z"
+  },
+  {
+    "id": "8",
+    "text": "Heri kukosa upate, Kuliko kupata ukose.",
+    "meaning": "Tafakari kwa kina kuhusu msemo huu. Una ujumbe mzito kwa maisha yetu ya kila siku.",
+    "source": "Wachangiaji wa Mawazo",
+    "enText": "",
+    "enMeaning": "",
+    "createdAt": "2026-07-10T11:57:23.365Z"
+  },
+  {
+    "id": "9",
+    "text": "Inapulizwa ili iwake, pia inapulizwa ili iweze kuzima, chaguo ni lako.",
+    "meaning": "Tafakari kwa kina kuhusu msemo huu. Una ujumbe mzito kwa maisha yetu ya kila siku.",
+    "source": "Wachangiaji wa Mawazo",
+    "enText": "",
+    "enMeaning": "",
+    "createdAt": "2026-07-11T11:57:23.365Z"
+  },
+  {
+    "id": "10",
+    "text": "Bora wali nyama, kuliko walimwengu eehh wana maneno Hao.",
+    "meaning": "Tafakari kwa kina kuhusu msemo huu. Una ujumbe mzito kwa maisha yetu ya kila siku.",
+    "source": "Wachangiaji wa Mawazo",
+    "enText": "",
+    "enMeaning": "",
+    "createdAt": "2026-07-12T11:57:23.365Z"
+  },
+  {
+    "id": "11",
+    "text": "Tujiepushe na makofi ya sifa, maana yanatusahaulisha ndoto zetu.",
+    "meaning": "Tafakari kwa kina kuhusu msemo huu. Una ujumbe mzito kwa maisha yetu ya kila siku.",
+    "source": "Wachangiaji wa Mawazo",
+    "enText": "",
+    "enMeaning": "",
+    "createdAt": "2026-07-13T11:57:23.365Z"
+  },
+  {
+    "id": "12",
+    "text": "Moyo... unaongea cha ajabu hautoi sauti.",
+    "meaning": "Tafakari kwa kina kuhusu msemo huu. Una ujumbe mzito kwa maisha yetu ya kila siku.",
+    "source": "Wachangiaji wa Mawazo",
+    "enText": "",
+    "enMeaning": "",
+    "createdAt": "2026-07-14T11:57:23.365Z"
+  },
+  {
+    "id": "13",
+    "text": "Chozi ni kiwakilishi cha maneno ambayo moyo hayawezi kuongea.",
+    "meaning": "Tafakari kwa kina kuhusu msemo huu. Una ujumbe mzito kwa maisha yetu ya kila siku.",
+    "source": "Wachangiaji wa Mawazo",
+    "enText": "",
+    "enMeaning": "",
+    "createdAt": "2026-07-15T11:57:23.365Z"
+  },
+  {
+    "id": "14",
+    "text": "Mtoto ni mtu mzima anayekua na mtu mzima ni mtoto aliyekua.",
+    "meaning": "Tafakari kwa kina kuhusu msemo huu. Una ujumbe mzito kwa maisha yetu ya kila siku.",
+    "source": "Wachangiaji wa Mawazo",
+    "enText": "",
+    "enMeaning": "",
+    "createdAt": "2026-07-16T11:57:23.365Z"
+  },
+  {
+    "id": "15",
+    "text": "Kila siku maisha yanatupa shule mpya, hupaswi kuwa maskini kiasi ambacho kitu pekee ulicho nacho ni pesa tu.",
+    "meaning": "Tafakari kwa kina kuhusu msemo huu. Una ujumbe mzito kwa maisha yetu ya kila siku.",
+    "source": "Wachangiaji wa Mawazo",
+    "enText": "",
+    "enMeaning": "",
+    "createdAt": "2026-07-17T11:57:23.365Z"
+  },
+  {
+    "id": "16",
+    "text": "Mtu hivyo umwonavyo, sivyo alivyo.",
+    "meaning": "Tafakari kwa kina kuhusu msemo huu. Una ujumbe mzito kwa maisha yetu ya kila siku.",
+    "source": "Wachangiaji wa Mawazo",
+    "enText": "",
+    "enMeaning": "",
+    "createdAt": "2026-07-18T11:57:23.365Z"
+  },
+  {
+    "id": "17",
+    "text": "Heri kuchafuka ukiwa umeshiba, kuliko kuwa msafi ukiwa na njaa.",
+    "meaning": "Tafakari kwa kina kuhusu msemo huu. Una ujumbe mzito kwa maisha yetu ya kila siku.",
+    "source": "Wachangiaji wa Mawazo",
+    "enText": "",
+    "enMeaning": "",
+    "createdAt": "2026-07-19T11:57:23.365Z"
+  },
+  {
+    "id": "18",
+    "text": "Maisha hayana usawa, ndio maana kuna aliye nacho na asiye nacho.",
+    "meaning": "Tafakari kwa kina kuhusu msemo huu. Una ujumbe mzito kwa maisha yetu ya kila siku.",
+    "source": "Wachangiaji wa Mawazo",
+    "enText": "",
+    "enMeaning": "",
+    "createdAt": "2026-07-20T11:57:23.365Z"
+  },
+  {
+    "id": "19",
+    "text": "Leo ina mimba, hatujui itazaa nini wanetu.",
+    "meaning": "Tafakari kwa kina kuhusu msemo huu. Una ujumbe mzito kwa maisha yetu ya kila siku.",
+    "source": "Wachangiaji wa Mawazo",
+    "enText": "",
+    "enMeaning": "",
+    "createdAt": "2026-07-21T11:57:23.365Z"
+  },
+  {
+    "id": "20",
+    "text": "Baraka zinapenda kukutana na jasho, kuliko usingizi.",
+    "meaning": "Tafakari kwa kina kuhusu msemo huu. Una ujumbe mzito kwa maisha yetu ya kila siku.",
+    "source": "Wachangiaji wa Mawazo",
+    "enText": "",
+    "enMeaning": "",
+    "createdAt": "2026-07-22T11:57:23.365Z"
+  },
+  {
+    "id": "21",
+    "text": "Pambana kwa tahadhari, maana mapambano yote ni hatari.",
+    "meaning": "Tafakari kwa kina kuhusu msemo huu. Una ujumbe mzito kwa maisha yetu ya kila siku.",
+    "source": "Wachangiaji wa Mawazo",
+    "enText": "",
+    "enMeaning": "",
+    "createdAt": "2026-07-23T11:57:23.365Z"
+  },
+  {
+    "id": "22",
+    "text": "Hakuna vita vitamu, vita vyote ni vichungu.",
+    "meaning": "Tafakari kwa kina kuhusu msemo huu. Una ujumbe mzito kwa maisha yetu ya kila siku.",
+    "source": "Wachangiaji wa Mawazo",
+    "enText": "",
+    "enMeaning": "",
+    "createdAt": "2026-07-24T11:57:23.365Z"
+  },
+  {
+    "id": "23",
+    "text": "Unyonge si dawa, yatupasa tusimame tukapambane.",
+    "meaning": "Tafakari kwa kina kuhusu msemo huu. Una ujumbe mzito kwa maisha yetu ya kila siku.",
+    "source": "Wachangiaji wa Mawazo",
+    "enText": "",
+    "enMeaning": "",
+    "createdAt": "2026-07-25T11:57:23.365Z"
+  },
+  {
+    "id": "24",
+    "text": "Katika pesa hupaswi kumwamini yeyote, hata akiwa ni ndugu wa karibu.",
+    "meaning": "Tafakari kwa kina kuhusu msemo huu. Una ujumbe mzito kwa maisha yetu ya kila siku.",
+    "source": "Wachangiaji wa Mawazo",
+    "enText": "",
+    "enMeaning": "",
+    "createdAt": "2026-07-26T11:57:23.365Z"
+  },
+  {
+    "id": "25",
+    "text": "Unaposhika nyundo, usidhani kila kitu ni msumari.",
+    "meaning": "Tafakari kwa kina kuhusu msemo huu. Una ujumbe mzito kwa maisha yetu ya kila siku.",
+    "source": "Wachangiaji wa Mawazo",
+    "enText": "",
+    "enMeaning": "",
+    "createdAt": "2026-07-27T11:57:23.365Z"
+  },
+  {
+    "id": "26",
+    "text": "Kuvuka mto, sio mwisho wa safari.",
+    "meaning": "Tafakari kwa kina kuhusu msemo huu. Una ujumbe mzito kwa maisha yetu ya kila siku.",
+    "source": "Wachangiaji wa Mawazo",
+    "enText": "",
+    "enMeaning": "",
+    "createdAt": "2026-07-28T11:57:23.365Z"
+  },
+  {
+    "id": "27",
+    "text": "Uongozi ni vazi la kuazima, ambalo muda wowote linarudi kwenye kabati la mwenyewe.",
+    "meaning": "Tafakari kwa kina kuhusu msemo huu. Una ujumbe mzito kwa maisha yetu ya kila siku.",
+    "source": "Wachangiaji wa Mawazo",
+    "enText": "",
+    "enMeaning": "",
+    "createdAt": "2026-07-29T11:57:23.365Z"
+  },
+  {
+    "id": "28",
+    "text": "Tusiwaamini binadamu (Yeremiah 17:5,6) maana amekisha kulaaniwa atakaye mtegemea mwanadamu. Bali tumwamini na kumtegemea Mungu (Yeremiah 17:7,8).",
+    "meaning": "Tafakari kwa kina kuhusu msemo huu. Una ujumbe mzito kwa maisha yetu ya kila siku.",
+    "source": "Wachangiaji wa Mawazo",
+    "enText": "",
+    "enMeaning": "",
+    "createdAt": "2026-07-30T11:57:23.365Z"
+  },
+  {
+    "id": "29",
+    "text": "Sehemu tunazo amini kwamba mafanikio yetu yatakua, Mungu katupangia kwingine.",
+    "meaning": "Tafakari kwa kina kuhusu msemo huu. Una ujumbe mzito kwa maisha yetu ya kila siku.",
+    "source": "Wachangiaji wa Mawazo",
+    "enText": "",
+    "enMeaning": "",
+    "createdAt": "2026-07-31T11:57:23.365Z"
+  },
+  {
+    "id": "30",
+    "text": "Wengine wetu tunamshtakia Mungu mnayotufanyia sisi. Mungu si Athumani.",
+    "meaning": "Tafakari kwa kina kuhusu msemo huu. Una ujumbe mzito kwa maisha yetu ya kila siku.",
+    "source": "Wachangiaji wa Mawazo",
+    "enText": "",
+    "enMeaning": "",
+    "createdAt": "2026-08-01T11:57:23.365Z"
+  },
+  {
+    "id": "31",
+    "text": "Wanangu eeh, Mungu wao ni Mungu wetu, hajabadilika, hajabadili mipango, ni yule yule.",
+    "meaning": "Tafakari kwa kina kuhusu msemo huu. Una ujumbe mzito kwa maisha yetu ya kila siku.",
+    "source": "Wachangiaji wa Mawazo",
+    "enText": "",
+    "enMeaning": "",
+    "createdAt": "2026-08-02T11:57:23.365Z"
+  },
+  {
+    "id": "32",
+    "text": "Sisi tunapanga Mungu anaamua.",
+    "meaning": "Tafakari kwa kina kuhusu msemo huu. Una ujumbe mzito kwa maisha yetu ya kila siku.",
+    "source": "Wachangiaji wa Mawazo",
+    "enText": "",
+    "enMeaning": "",
+    "createdAt": "2026-08-03T11:57:23.365Z"
+  },
+  {
+    "id": "33",
+    "text": "Usimwambie Mungu ukubwa wa shida zako, ila ziambie shida zako ukubwa wa Mungu wako.",
+    "meaning": "Tafakari kwa kina kuhusu msemo huu. Una ujumbe mzito kwa maisha yetu ya kila siku.",
+    "source": "Wachangiaji wa Mawazo",
+    "enText": "",
+    "enMeaning": "",
+    "createdAt": "2026-08-04T11:57:23.365Z"
+  },
+  {
+    "id": "34",
+    "text": "Tusikate tamaa wanetu eeehh, kitabu cha riziki yetu kina kurasa za kheri.",
+    "meaning": "Tafakari kwa kina kuhusu msemo huu. Una ujumbe mzito kwa maisha yetu ya kila siku.",
+    "source": "Wachangiaji wa Mawazo",
+    "enText": "",
+    "enMeaning": "",
+    "createdAt": "2026-08-05T11:57:23.365Z"
+  },
+  {
+    "id": "35",
+    "text": "Wanetu eeh! Nashtuka sana nikiona jinsi mnavyong'ang'ana kuwarithisha hawa viumbe ambao ni wateja wa waganga watapeli.",
+    "meaning": "Tafakari kwa kina kuhusu msemo huu. Una ujumbe mzito kwa maisha yetu ya kila siku.",
+    "source": "Wachangiaji wa Mawazo",
+    "enText": "",
+    "enMeaning": "",
+    "createdAt": "2026-08-06T11:57:23.365Z"
+  },
+  {
+    "id": "36",
+    "text": "Ujana una mateso, tukwepe mishale mingi na tuvumilie.",
+    "meaning": "Tafakari kwa kina kuhusu msemo huu. Una ujumbe mzito kwa maisha yetu ya kila siku.",
+    "source": "Wachangiaji wa Mawazo",
+    "enText": "",
+    "enMeaning": "",
+    "createdAt": "2026-08-07T11:57:23.365Z"
+  },
+  {
+    "id": "37",
+    "text": "Wanetu, tutamani sana mafanikio, wala si Utajiri.",
+    "meaning": "Tafakari kwa kina kuhusu msemo huu. Una ujumbe mzito kwa maisha yetu ya kila siku.",
+    "source": "Wachangiaji wa Mawazo",
+    "enText": "",
+    "enMeaning": "",
+    "createdAt": "2026-08-08T11:57:23.365Z"
+  },
+  {
+    "id": "38",
+    "text": "Wanetu Eeeh tusiwe wanasiasa kivyovyote vile, Maana uongo unaokithiri eneo hilo ni mkubwa mno.",
+    "meaning": "Tafakari kwa kina kuhusu msemo huu. Una ujumbe mzito kwa maisha yetu ya kila siku.",
+    "source": "Wachangiaji wa Mawazo",
+    "enText": "",
+    "enMeaning": "",
+    "createdAt": "2026-08-09T11:57:23.365Z"
+  },
+  {
+    "id": "39",
+    "text": "Wanetu Eeeh, tusithubutu kusoma gazeti nyakati za jioni.",
+    "meaning": "Tafakari kwa kina kuhusu msemo huu. Una ujumbe mzito kwa maisha yetu ya kila siku.",
+    "source": "Wachangiaji wa Mawazo",
+    "enText": "",
+    "enMeaning": "",
+    "createdAt": "2026-08-10T11:57:23.365Z"
+  },
+  {
+    "id": "40",
+    "text": "Wanetu tuwe na heshima, Maana itatufusha kwingi ata kule tunako amini hela zitatufusha.",
+    "meaning": "Tafakari kwa kina kuhusu msemo huu. Una ujumbe mzito kwa maisha yetu ya kila siku.",
+    "source": "Wachangiaji wa Mawazo",
+    "enText": "",
+    "enMeaning": "",
+    "createdAt": "2026-08-11T11:57:23.365Z"
+  },
+  {
+    "id": "41",
+    "text": "Vijana wenzangu tuwe mabalozi wema, mnakoenda kwa chochote kile mnachohusishwa.",
+    "meaning": "Tafakari kwa kina kuhusu msemo huu. Una ujumbe mzito kwa maisha yetu ya kila siku.",
+    "source": "Wachangiaji wa Mawazo",
+    "enText": "",
+    "enMeaning": "",
+    "createdAt": "2026-08-12T11:57:23.365Z"
+  },
+  {
+    "id": "42",
+    "text": "Rafiki mkubwa wa Umaskini ni Usingizi; wanetu tumkimbie huyu rafiki maana huyu si rafiki mzuri.",
+    "meaning": "Tafakari kwa kina kuhusu msemo huu. Una ujumbe mzito kwa maisha yetu ya kila siku.",
+    "source": "Wachangiaji wa Mawazo",
+    "enText": "",
+    "enMeaning": "",
+    "createdAt": "2026-08-13T11:57:23.365Z"
+  },
+  {
+    "id": "43",
+    "text": "Kwa mwanaume hakuna urafiki na mwanamke, najua kuna wengi hawatakubaliana na mimi lakini huu ndo ukweli.",
+    "meaning": "Tafakari kwa kina kuhusu msemo huu. Una ujumbe mzito kwa maisha yetu ya kila siku.",
+    "source": "Wachangiaji wa Mawazo",
+    "enText": "",
+    "enMeaning": "",
+    "createdAt": "2026-08-14T11:57:23.365Z"
+  },
+  {
+    "id": "44",
+    "text": "Ukishindwa kumbadilisha mwanamke, badilisha mwanamke.",
+    "meaning": "Tafakari kwa kina kuhusu msemo huu. Una ujumbe mzito kwa maisha yetu ya kila siku.",
+    "source": "Wachangiaji wa Mawazo",
+    "enText": "",
+    "enMeaning": "",
+    "createdAt": "2026-08-15T11:57:23.365Z"
+  },
+  {
+    "id": "45",
+    "text": "Usilazimishe asikulazimishe moyo sio mashine, moyo sukuma damu.",
+    "meaning": "Tafakari kwa kina kuhusu msemo huu. Una ujumbe mzito kwa maisha yetu ya kila siku.",
+    "source": "Wachangiaji wa Mawazo",
+    "enText": "",
+    "enMeaning": "",
+    "createdAt": "2026-08-16T11:57:23.365Z"
+  },
+  {
+    "id": "46",
+    "text": "Binadamu ni wepesi sana kusahau wema wako, ishi nao kwa tahadhari.",
+    "meaning": "Tafakari kwa kina kuhusu msemo huu. Una ujumbe mzito kwa maisha yetu ya kila siku.",
+    "source": "Wachangiaji wa Mawazo",
+    "enText": "",
+    "enMeaning": "",
+    "createdAt": "2026-08-17T11:57:23.365Z"
+  },
+  {
+    "id": "47",
+    "text": "Anayekununua leo, kesho anaweza kukuuza.",
+    "meaning": "Tafakari kwa kina kuhusu msemo huu. Una ujumbe mzito kwa maisha yetu ya kila siku.",
+    "source": "Wachangiaji wa Mawazo",
+    "enText": "",
+    "enMeaning": "",
+    "createdAt": "2026-08-18T11:57:23.365Z"
+  },
+  {
+    "id": "48",
+    "text": "Usaliti unatoka kwa watu wa karibu sana.",
+    "meaning": "Tafakari kwa kina kuhusu msemo huu. Una ujumbe mzito kwa maisha yetu ya kila siku.",
+    "source": "Wachangiaji wa Mawazo",
+    "enText": "",
+    "enMeaning": "",
+    "createdAt": "2026-08-19T11:57:23.365Z"
+  },
+  {
+    "id": "49",
+    "text": "Mwavuli huonekana kuwa mzigo baada ya mvua kuisha.",
+    "meaning": "Tafakari kwa kina kuhusu msemo huu. Una ujumbe mzito kwa maisha yetu ya kila siku.",
+    "source": "Wachangiaji wa Mawazo",
+    "enText": "",
+    "enMeaning": "",
+    "createdAt": "2026-08-20T11:57:23.365Z"
+  },
+  {
+    "id": "50",
+    "text": "Unapoteza sehemu ndogo ya uaminifu, huwezi kuaminiwa tena hata kidogo!",
+    "meaning": "Tafakari kwa kina kuhusu msemo huu. Una ujumbe mzito kwa maisha yetu ya kila siku.",
+    "source": "Wachangiaji wa Mawazo",
+    "enText": "",
+    "enMeaning": "",
+    "createdAt": "2026-08-21T11:57:23.365Z"
+  },
+  {
+    "id": "51",
+    "text": "Wanetu eeh, tusiwakabidhi binadamu nafasi ya Mungu, binadamu hawa watawashangaza!",
+    "meaning": "Tafakari kwa kina kuhusu msemo huu. Una ujumbe mzito kwa maisha yetu ya kila siku.",
+    "source": "Wachangiaji wa Mawazo",
+    "enText": "",
+    "enMeaning": "",
+    "createdAt": "2026-08-22T11:57:23.365Z"
+  },
+  {
+    "id": "52",
+    "text": "Wanetu tusiishi kwenye maisha ya kuigiza, tuishi maisha ya uhalisia.",
+    "meaning": "Tafakari kwa kina kuhusu msemo huu. Una ujumbe mzito kwa maisha yetu ya kila siku.",
+    "source": "Wachangiaji wa Mawazo",
+    "enText": "",
+    "enMeaning": "",
+    "createdAt": "2026-08-23T11:57:23.365Z"
+  },
+  {
+    "id": "53",
+    "text": "Urafiki pesa, uadui pesa.",
+    "meaning": "Tafakari kwa kina kuhusu msemo huu. Una ujumbe mzito kwa maisha yetu ya kila siku.",
+    "source": "Wachangiaji wa Mawazo",
+    "enText": "",
+    "enMeaning": "",
+    "createdAt": "2026-08-24T11:57:23.365Z"
+  }
+]

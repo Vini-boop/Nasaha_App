@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "Nasaha",
+    "slug": "nasaha-app",
+    "scheme": "nasaha-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon-nasaha.png",
+    "userInterfaceStyle": "light",
+    "updates": {
+      "enabled": false,
+      "checkAutomatically": "ON_ERROR_RECOVERY",
+      "fallbackToCacheTimeout": 0
+    },
+
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.nasaha.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon-nasaha.png",
+        "backgroundColor": "#285D6C"
+      },
+
+      "package": "com.nasaha.app",
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-font",
+      "expo-status-bar",
+      "expo-web-browser",
+      "@react-native-google-signin/google-signin"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "4aa1bfe9-bc7d-40fb-9f82-fddb109111e7"
+      }
+    }
+  }
+}

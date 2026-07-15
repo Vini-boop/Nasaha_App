@@ -1,0 +1,26 @@
+{
+  "name": "nasaha-backend",
+  "version": "1.0.0",
+  "description": "NasahaApp REST API — serves dibaji, methali, and makala to the mobile app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.5",
+    "dotenv": "^17.4.2",
+    "expo-server-sdk": "^6.1.0",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.3",
+    "multer": "^2.2.0",
+    "node-cache": "^5.1.2",
+    "nodemailer": "^9.0.3",
+    "pg": "^8.22.0",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}

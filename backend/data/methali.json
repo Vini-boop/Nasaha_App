@@ -1,0 +1,956 @@
+[
+  {
+    "id": "1",
+    "methali": "Mvumilivu hula mbivu",
+    "meaning": "Mtu mwenye subira na ustahimilivu mwishowe hupata matunda ya juhudi na bidii yake. Hakuna mafanikio ya haraka bila uvumilivu.",
+    "lesson": "Subira na uvumilivu ni sifa muhimu sana za uongozi na mafanikio katika maisha ya kila siku ya mwanadamu.",
+    "category": "Subira",
+    "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "methali": "Njia ya mwongo ni fupi",
+    "meaning": "Mwongo hukamatwa upesi kwa sababu hawezi kukumbuka uongo wake wote. Ukweli utadhihirika mapema au baadaye.",
+    "lesson": "Kusema ukweli ni msingi wa kujenga uaminifu na heshima. Uongo unaweza kukupa nafuu ya muda mfupi lakini utakugharimu heshima yako.",
+    "category": "Urafiki",
+    "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2025-01-02T00:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "methali": "Haraka haraka haina baraka",
+    "meaning": "Kufanya jambo kwa pupa na haraka kupita kiasi huleta matokeo duni na makosa mengi.",
+    "lesson": "Umakini na utulivu ni nguzo kuu za kufanikisha jambo kwa ubora.",
+    "category": "Utulivu",
+    "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2025-01-03T00:00:00.000Z"
+  },
+  {
+    "id": "4",
+    "methali": "Mgeni siku mbili, ya tatu mpe jembe",
+    "meaning": "Mgeni anapaswa kukaribishwa kwa heshima, lakini baada ya muda anapaswa kuanza kushiriki katika majukumu.",
+    "lesson": "Ukarimu una mipaka; ushirikiano na kuwajibika ni muhimu popote unapokuwa.",
+    "category": "Ukarimu",
+    "image": "https://images.unsplash.com/photo-1531206715517-5c0ba140b2b8?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2025-01-04T00:00:00.000Z"
+  },
+  {
+    "id": "5",
+    "methali": "Akili ni nywele, kila mtu ana zake",
+    "meaning": "Kila mwanadamu amejaaliwa uwezo tofauti wa kufikiri na kutatua matatizo.",
+    "lesson": "Kuheshimu mawazo na mitazamo ya wengine kunapanua wigo wa maarifa.",
+    "category": "Akili",
+    "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2025-01-05T00:00:00.000Z"
+  },
+  {
+    "id": "6",
+    "methali": "Mkono mmoja haulei mwana",
+    "meaning": "Malezi ya mtoto au utekelezaji wa jambo kubwa huhitaji ushirikiano wa watu wengi.",
+    "lesson": "Umoja na ushirikiano katika jamii ni msingi mkuu wa kujenga na kufanikisha mambo makubwa.",
+    "category": "Ushirikiano",
+    "image": "https://images.unsplash.com/photo-1529154691717-330608dd63f2?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2025-01-06T00:00:00.000Z"
+  },
+  {
+    "id": "7",
+    "methali": "Achekaye kovu hajaona jeraha.",
+    "meaning": "Mtu anayecheka alama ya kovu hajui uchungu wa kidonda chenyewe na jinsi aliyepona alivyoteseka.",
+    "lesson": "Usiwacheke au kuwadharau watu waliopitia magumu, kwani hujui ukubwa wa maumivu waliyopitia. Onyesha huruma.",
+    "category": "Uelewa",
+    "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.782Z"
+  },
+  {
+    "id": "8",
+    "methali": "Adhabu ya kaburi aijua maiti.",
+    "meaning": "Mtu anayepitia shida au maumivu ndiye pekee anayeelewa kikamilifu uzito wa tatizo hilo.",
+    "lesson": "Tusiwahukumu watu walio katika matatizo kwa kuwa hatujui uhalisia na uzito wa kile wanachokipitia mioyoni mwao.",
+    "category": "Uelewa",
+    "image": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.782Z"
+  },
+  {
+    "id": "9",
+    "methali": "Adui aangukapo muinue.",
+    "meaning": "Ikiwa adui yako amepata tatizo au ameanguka, unapaswa kumsaidia badala ya kufurahia anguko lake.",
+    "lesson": "Kusamehe na kusaidia hata wale waliotukosea ni alama ya uungwana mkubwa na inaweza kumbadilisha adui kuwa rafiki.",
+    "category": "Ukarimu",
+    "image": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "10",
+    "methali": "Adui mpende.",
+    "meaning": "Mtu anayekuchukia au kukufanyia ubaya, unapaswa kumuonyesha upendo na wema.",
+    "lesson": "Upendo ndio silaha pekee inayoweza kuua chuki. Kuwa na roho ya msamaha hukupa amani ya moyo na kujenga amani katika jamii.",
+    "category": "Ukarimu",
+    "image": "https://images.unsplash.com/photo-1518398092300-5cca33f1b0a8?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "11",
+    "methali": "Adui ya mtu ni mtu.",
+    "meaning": "Mara nyingi, anayemdhuru au kumletea mtu matatizo ni binadamu mwenzake, wala si mnyama au kitu kingine.",
+    "lesson": "Binadamu tunapaswa kuwa makini na wale tunaoambatana nao. Tuwe na tahadhari dhidi ya marafiki wa uongo na unafiki.",
+    "category": "Urafiki",
+    "image": "https://images.unsplash.com/photo-1529154691717-330608dd63f2?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "12",
+    "methali": "Afadhali dooteni kama ambari kutanda.",
+    "meaning": "Ni heri kupata kitu kidogo au cha kawaida, kuliko kusubiri kitu kikubwa kisichokuwepo au cha matumaini hewa.",
+    "lesson": "Thamini kile kidogo ulichonacho mkononi leo kuliko kupoteza muda kutegemea mambo makubwa ambayo huenda yasitokee.",
+    "category": "Subira",
+    "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "13",
+    "methali": "Afadhali mchawi kuliko mfitini.",
+    "meaning": "Mtu anayesambaza fitina na uchonganishi ni mbaya zaidi kuliko mchawi anayeroga.",
+    "lesson": "Fitina ina uwezo wa kubomoa jamii nzima, kuvunja ndoa na urafiki. Tunapaswa kuepuka majungu na umbea.",
+    "category": "Maadili",
+    "image": "https://images.unsplash.com/photo-1544928147-79a2dbc1f389?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "14",
+    "methali": "Afya ni bora kuliko mali.",
+    "meaning": "Kuwa na afya njema kuna thamani kubwa sana kuliko kuwa na utajiri mwingi.",
+    "lesson": "Tunapaswa kujali afya zetu kabla ya kukimbiza pesa, kwani pesa haiwezi kununua uhai au afya iliyopotea.",
+    "category": "Maisha",
+    "image": "https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "15",
+    "methali": "Aingiaye kichakani hurejea na kuni.",
+    "meaning": "Mtu anayeweka bidii na kwenda kufanya kazi, lazima atarudi na matokeo au mafanikio ya kazi yake.",
+    "lesson": "Tusitegemee kupata chochote kama hatuko tayari kufanya kazi kwa bidii na kujituma.",
+    "category": "Kazi",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "16",
+    "methali": "Aisifuye mvua imemnyea.",
+    "meaning": "Mtu anayesifu jambo au mtu fulani, mara nyingi anafanya hivyo kwa sababu ameshafaidika nalo au kumuona.",
+    "lesson": "Uzoefu ni mwalimu mzuri; tunapaswa kuzungumza na kusifu mambo tunayoyajua na kuyaelewa kwa kina.",
+    "category": "Uelewa",
+    "image": "https://images.unsplash.com/photo-1544928147-79a2dbc1f389?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "17",
+    "methali": "Ajabu ya shingo kukataa kulala kitandani.",
+    "meaning": "Ni jambo la kustaajabisha kuona mtu anakataa jambo ambalo ni dhahiri kwamba litamsaidia au lina manufaa kwake.",
+    "lesson": "Tuwe wepesi wa kukubali msaada na ushauri mwema badala ya kuwa wakaidi kwa mambo yanayotufaa.",
+    "category": "Akili",
+    "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "18",
+    "methali": "Akiba haiozi.",
+    "meaning": "Kitu ulichokiweka akiba leo, kitakuja kukusaidia siku za usoni; hakipotei wala kuharibika bure.",
+    "lesson": "Jenga tabia ya kujiwekea akiba kwa ajili ya wakati wa shida. Maisha hubadilika, na akiba ni kinga.",
+    "category": "Akili",
+    "image": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "19",
+    "methali": "Akili ni mali.",
+    "meaning": "Uwezo wa kufikiri vyema na akili timamu ni utajiri mkuu kuliko vitu vya kushikika.",
+    "lesson": "Tumia akili yako kutatua matatizo na kutafuta maarifa. Akili inaweza kukuongoza kupata kila unachokihitaji.",
+    "category": "Akili",
+    "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "20",
+    "methali": "Akili ni nywele, kila mtu ana zake.",
+    "meaning": "Kama ambavyo kila mtu ana aina yake ya nywele, vivyo hivyo kila mtu ana namna yake ya kufikiri na kutatua mambo.",
+    "lesson": "Tuheshimu mawazo ya watu wengine kwa sababu kila mtu ana uwezo na utashi wake tofauti na wetu.",
+    "category": "Akili",
+    "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "21",
+    "methali": "Akili nyingi huondoa maarifa.",
+    "meaning": "Kujifanya mjuaji kupita kiasi kunaweza kumsababishia mtu kufanya makosa ya kijinga na kupoteza mwelekeo.",
+    "lesson": "Tuwe wanyenyekevu na tayari kujifunza; kujiona unajua kila kitu ni ujinga unaoweza kukuangamiza.",
+    "category": "Akili",
+    "image": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "22",
+    "methali": "Akufukuzaye hakwambii toka.",
+    "meaning": "Mtu anayetaka uondoke kwake hatakwambia moja kwa moja, bali atakuonyesha vitendo vinavyokuudhi hadi uondoke mwenyewe.",
+    "lesson": "Jifunze kusoma alama za nyakati na vitendo vya watu ili kujiheshimu na kujiepusha na aibu.",
+    "category": "Uelewa",
+    "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "23",
+    "methali": "Akumegeaye tonge humpiga mamako ukitazama.",
+    "meaning": "Mtu anayekupa chakula au msaada wakati wa shida, anaweza kufanya mambo mabaya kwako au kwa wapendwa wako na ushindwe kumkemea.",
+    "lesson": "Jitegemee. Kuwa tegemezi kunakuondolea uhuru wa kujitetea na kupigania haki zako.",
+    "category": "Kazi",
+    "image": "https://images.unsplash.com/photo-1425913397330-cf8af2ff40a1?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "24",
+    "methali": "Akunyimaye mbazi kakupunguzia mashuzi.",
+    "meaning": "Mtu anayekunyima kitu fulani, huenda amekuepusha na madhara au aibu ambayo ingetokana na kitu hicho.",
+    "lesson": "Tusikate tamaa tunaponyimwa msaada; pengine kukosa huko ni kinga iliyofichika dhidi ya matatizo ya baadaye.",
+    "category": "Subira",
+    "image": "https://images.unsplash.com/photo-1447069387593-a5de0862481e?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "25",
+    "methali": "Aliyekutweka ndiye atakayekutua.",
+    "meaning": "Yule aliyekupa mzigo au kukuweka katika shida ndiye mara nyingi anayeweza kukuondolea tatizo hilo.",
+    "lesson": "Katika kutatua mizozo au shida, ni muhimu kushughulika moja kwa moja na chanzo cha tatizo hilo.",
+    "category": "Uelewa",
+    "image": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "26",
+    "methali": "Aliyeumwa na nyoka akiona jani hushtuka.",
+    "meaning": "Mtu aliyeumizwa na jambo fulani hapo awali huwa muoga na mwenye tahadhari sana anapoona dalili zinazofanana na tatizo hilo.",
+    "lesson": "Uzoefu mbaya hutufunza kuwa makini; lakini tusiruhusu hofu ituzuie kuendelea na maisha yetu.",
+    "category": "Uelewa",
+    "image": "https://images.unsplash.com/photo-1544928147-79a2dbc1f389?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "27",
+    "methali": "Anayekueleza ya wengine atawaeleza mengine ya kwako.",
+    "meaning": "Mtu anayekuletea umbea na siri za watu wengine, atapeleka siri zako kwa watu hao hao.",
+    "lesson": "Kuwa mwangalifu na watu wanaopenda kusambaza umbea. Usiwaamini wala kuwapa siri zako.",
+    "category": "Maadili",
+    "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "28",
+    "methali": "Asante ya punda ni mateke.",
+    "meaning": "Watu wengine huwalipa wale waliowatendea wema kwa kuwafanyia ubaya.",
+    "lesson": "Tenda wema uende zako. Usitegemee shukrani kwa kila mtu unayemsaidia, kwani wengine hawana fadhila.",
+    "category": "Maadili",
+    "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "29",
+    "methali": "Asiyefunzwa na mamaye hufunzwa na ulimwengu.",
+    "meaning": "Mtoto asiyesikiliza mafunzo ya wazazi wake nyumbani atakuja kukumbana na adhabu kali na mafunzo magumu ulimwenguni.",
+    "lesson": "Tushtuke na kusikiliza mawaidha ya wazazi na walezi wetu, kwani ulimwengu hauna huruma kwa wakaidi.",
+    "category": "Maadili",
+    "image": "https://images.unsplash.com/photo-1544928147-79a2dbc1f389?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "30",
+    "methali": "Asiyejua kufa na atazame kaburi.",
+    "meaning": "Yule asiyejua ukweli wa jambo au asiyefahamu athari zake anatakiwa kutazama alama au mifano iliyo wazi (kama kaburi).",
+    "lesson": "Ikiwa huna uhakika na matokeo ya jambo, jifunze kutokana na makosa ya waliokutangulia na mifano iliyopo.",
+    "category": "Uelewa",
+    "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "31",
+    "methali": "Asiyejua maana haambiwi maana.",
+    "meaning": "Ni kazi bure kumweleza mtu jambo lenye thamani ikiwa yeye mwenyewe hana nia ya kujifunza wala kulithamini.",
+    "lesson": "Usimlazimishe mtu kuelewa ushauri wako ikiwa hajawa tayari kuupokea; hekima hupokelewa na wanaoitafuta.",
+    "category": "Akili",
+    "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "32",
+    "methali": "Asiyekubali kushindwa si mshindani.",
+    "meaning": "Mtu yeyote anayeshiriki katika mashindano au mapambano ya kimaisha lazima akubali kuwa kuna kushinda na kushindwa.",
+    "lesson": "Jifunze kukubali matokeo. Kushindwa si mwisho wa dunia, bali ni fursa ya kujifunza na kuwa bora zaidi.",
+    "category": "Subira",
+    "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "33",
+    "methali": "Asiyekunywa kwenye chemchemi hunywa kwenye mto.",
+    "meaning": "Ikiwa hukupata fursa ya kwanza na iliyo bora zaidi (chemchemi), bado unaweza kutumia fursa mbadala zilizopo mbele yako (mto).",
+    "lesson": "Usikate tamaa unapokosa kile ulichotaka hasa. Tafuta njia mbadala ya kufikia malengo yako.",
+    "category": "Uvumilivu",
+    "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "34",
+    "methali": "Asiyekuwapo na lake halipo.",
+    "meaning": "Mtu ambaye hayupo mahali ambapo maamuzi yanafanywa au vitu vinagawiwa, mara nyingi hukosa haki yake au fursa hiyo.",
+    "lesson": "Kuhudhuria na kushiriki kikamilifu katika masuala yanayokuhusu ni muhimu; usitegemee watu wakutendee haki usipokuwepo.",
+    "category": "Maisha",
+    "image": "https://images.unsplash.com/photo-1502472584811-0a2f2feb8968?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "35",
+    "methali": "Asiyekuwepo machoni na moyoni hayupo.",
+    "meaning": "Unapokuwa mbali na mtu kwa muda mrefu, ni rahisi kusahaulika na kupoteza umuhimu wako kwake.",
+    "lesson": "Mahusiano bora hujengwa na kudumishwa kwa ukaribu na mawasiliano ya mara kwa mara.",
+    "category": "Urafiki",
+    "image": "https://images.unsplash.com/photo-1511632765486-a96c7530e85b?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "36",
+    "methali": "Asiyeogopa ng'ombe ni ng'ombe.",
+    "meaning": "Ikiwa mtu haogopi au hamheshimu mwenye nguvu au mkuu wake, huenda naye ana akili zisizo timamu sawa na mnyama.",
+    "lesson": "Heshima ni msingi wa kuishi kwa amani katika jamii. Tunapaswa kutii mamlaka na kuheshimu wakubwa wetu.",
+    "category": "Maadili",
+    "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "37",
+    "methali": "Asiyeona aibu zake asione za mwenziwe.",
+    "meaning": "Mtu asiyeweza kutambua na kurekebisha makosa yake mwenyewe, hapaswi kuwanyooshea kidole wengine kwa makosa yao.",
+    "lesson": "Jitathmini na ujirekebishe kwanza kabla ya kuanza kuwahukumu wengine.",
+    "category": "Maadili",
+    "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "38",
+    "methali": "Atangaye na jua hujuwa.",
+    "meaning": "Mtu anayetembea, kufanya kazi, na kushirikiana na watu mbalimbali hujifunza mengi zaidi kuhusu ulimwengu.",
+    "lesson": "Toka nje, tafuta fursa na ujifunze kutokana na uzoefu wa kila siku. Kujifungia ndani hakukupi maarifa.",
+    "category": "Akili",
+    "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "39",
+    "methali": "Atekaye maji mtoni asitukane mamba.",
+    "meaning": "Ikiwa unategemea msaada au fursa kutoka mahali fulani, haupaswi kuwadharau au kuwatukana wale wanaotawala eneo hilo.",
+    "lesson": "Kuwa na heshima kwa wale wanaokusaidia au wanaomiliki rasilimali unazozitegemea. Usiharibu uhusiano wako.",
+    "category": "Uelewa",
+    "image": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "40",
+    "methali": "Avumaye baharini papa kumbe wengine wapo.",
+    "meaning": "Papa ni mnyama anayejulikana na kuhofiwa sana baharini, lakini kuna viumbe wengine wengi hatari na muhimu ambao hawatajwi.",
+    "lesson": "Usidharau watu wasiojulikana sana; umaarufu sio kipimo pekee cha uwezo, wapo wengi wenye vipaji lakini kimya.",
+    "category": "Uelewa",
+    "image": "https://images.unsplash.com/photo-1544928147-79a2dbc1f389?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "41",
+    "methali": "Baada ya dhiki faraja.",
+    "meaning": "Baada ya kupitia kipindi cha matatizo, mateso, au ugumu mwingi, hatimaye kutakuja faraja, nafuu, au mafanikio.",
+    "lesson": "Usiwahi kukata tamaa unapopitia magumu; amini kwamba nyakati za furaha zinakuja mbele yako.",
+    "category": "Subira",
+    "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "42",
+    "methali": "Badiliko kwa mjukuu uanze na babu.",
+    "meaning": "Ili kuleta mabadiliko chanya kwa vizazi vijavyo, lazima tuanze kwa kubadilisha misingi inayoongozwa na wazee wa sasa.",
+    "lesson": "Tabia na maadili hujengwa kuanzia ngazi ya juu ya familia. Ili kurekebisha jamii, viongozi na wazazi wanapaswa kuwa mifano bora.",
+    "category": "Maadili",
+    "image": "https://images.unsplash.com/photo-1544928147-79a2dbc1f389?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "43",
+    "methali": "Bahari haivukwi kwa kuogolea.",
+    "meaning": "Matatizo au majukumu makubwa sana hayawezi kutatuliwa kwa njia dhaifu au za mkato zisizo na maandalizi.",
+    "lesson": "Panga mipango madhubuti na tumia zana sahihi ili kufikia malengo makubwa. Usijaribu kufanya mambo makubwa bila kujiandaa.",
+    "category": "Akili",
+    "image": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "44",
+    "methali": "Bahari iliko ndiko mito iendako.",
+    "meaning": "Kama mito yote inavyoelekea baharini kujiunga nayo, rasilimali na fursa huelekea kwa wale walio nazo nyingi tayari.",
+    "lesson": "Tajiri huzidi kutajirika. Lakini pia inafundisha kuwa watu hufuata wale wenye ushawishi au nguvu.",
+    "category": "Uelewa",
+    "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "45",
+    "methali": "Bahati ikipiga hodi ni lazima ufungue mlango mwenyewe.",
+    "meaning": "Fursa inapojitokeza, lazima uchukue hatua madhubuti kuipokea na kuitumia kikamilifu; haitafanya kazi yenyewe.",
+    "lesson": "Usiwe mvivu ukingojea miujiza; fursa zinahitaji juhudi na maandalizi ili zilete matokeo chanya.",
+    "category": "Kazi",
+    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "46",
+    "methali": "Bahati ya mwenzio usiilalie mlango wazi.",
+    "meaning": "Usitegemee kupata bahati nzuri kwa sababu tu rafiki yako ameipata. Kila mtu ana safari na mafanikio yake tofauti.",
+    "lesson": "Tia bidii katika mambo yako badala ya kutegemea njia rahisi. Wivu au kuiga maisha ya wengine hakutakusaidia.",
+    "category": "Uelewa",
+    "image": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "47",
+    "methali": "Banda likikushinda jenga kibanda.",
+    "meaning": "Ikiwa unashindwa kufanikisha lengo kubwa, anza na lengo dogo kulingana na uwezo wako wa sasa.",
+    "lesson": "Usikate tamaa unaposhindwa kufanya mambo makubwa. Fanya kile unachokiweza huku ukijipanga kufanya makubwa baadaye.",
+    "category": "Uelewa",
+    "image": "https://images.unsplash.com/photo-1544928147-79a2dbc1f389?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "48",
+    "methali": "Baniani mbaya kiatu chake dawa.",
+    "meaning": "Hata mtu unayemchukia au asiye mwema anaweza kuwa na kitu au utaalamu wenye msaada mkubwa kwako siku moja.",
+    "lesson": "Tusidharau watu kutokana na chuki zetu binafsi; kila mtu ana umuhimu wake na anaweza kutufaa wakati wa shida.",
+    "category": "Uelewa",
+    "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "49",
+    "methali": "Bata mtaga mayai usimchinje kwa tamaa ya wengi.",
+    "meaning": "Kitu kinachokuzalishia faida endelevu hakipaswi kuharibiwa kwa tamaa ya kupata faida kubwa kwa wakati mmoja.",
+    "lesson": "Jifunze kuwa na kiasi na kulinda vyanzo vyako vya mapato. Tamaa iliyopitiliza inaharibu rasilimali zinazokufaa kila siku.",
+    "category": "Maadili",
+    "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "50",
+    "methali": "Bendera hufuata upepo.",
+    "meaning": "Mtu asiye na msimamo hubadilika kila wakati kulingana na mkondo wa mawazo mapya au nguvu ya umati.",
+    "lesson": "Jenga msimamo wako binafsi katika maisha; usikubali kuyumbishwa na kila wazo analosema mtu mwingine.",
+    "category": "Uelewa",
+    "image": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "51",
+    "methali": "Bila silaha usiingie vitani.",
+    "meaning": "Haupaswi kujiingiza kwenye mapambano au kazi ngumu bila kuwa na maandalizi na zana stahiki.",
+    "lesson": "Maandalizi ni ufunguo wa ushindi. Usifanye mambo kwa kubahatisha au bila mpango madhubuti, utashindwa.",
+    "category": "Kazi",
+    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "52",
+    "methali": "Bilisi wa mtu ni mtu.",
+    "meaning": "Shetani anayekupotosha na kukushawishi ufanye maovu mara nyingi ni binadamu mwenzako unayemuamini.",
+    "lesson": "Tuwe makini na marafiki au watu wa karibu wanao tushawishi kufanya mambo mabaya. Mshawishi mbaya ni sawa na ibilisi.",
+    "category": "Maadili",
+    "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "53",
+    "methali": "Cha mkufuu mwanafuu ha, na akila hu; cha mwanafuu mkufuu hu na akila ha.",
+    "meaning": "Kinachomilikiwa na mwalimu, mwanafunzi huogopa kukigusa, lakini kinachomilikiwa na mwanafunzi, mwalimu anaweza kukitumia bila woga.",
+    "lesson": "Inaonyesha ukweli kuhusu usawa na mamlaka katika jamii. Heshimu wale waliokuzidi, lakini pia wakubwa wanapaswa kutumia mamlaka yao kwa uadilifu.",
+    "category": "Maadili",
+    "image": "https://images.unsplash.com/photo-1544928147-79a2dbc1f389?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "54",
+    "methali": "Cha mlevi huliwa na mgema.",
+    "meaning": "Mtu asiyekuwa makini na mali yake, mali hiyo huchukuliwa na yule aliye makini na mwerevu.",
+    "lesson": "Tunapaswa kuwa waangalifu na jinsi tunavyotumia rasilimali zetu; la sivyo, wajanja watazitumia kwa manufaa yao.",
+    "category": "Akili",
+    "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "55",
+    "methali": "Chaka la simba halilali nguruwe.",
+    "meaning": "Eneo lenye hatari kubwa au linalomilikiwa na watu wenye nguvu, haliwezi kukaliwa na watu wanyonge kizembe.",
+    "lesson": "Jifunze kujiweka katika maeneo salama; usijaribu kushindana na watu walio na uwezo mkubwa sana bila tahadhari.",
+    "category": "Uelewa",
+    "image": "https://images.unsplash.com/photo-1544928147-79a2dbc1f389?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "id": "56",
+    "methali": "Chanda chema huvikwa pete.",
+    "meaning": "Mtu anayefanya mambo mazuri au mwenye tabia njema mara nyingi hupata heshima, zawadi na kutunzwa vyema.",
+    "lesson": "Tabia njema hujilipa. Ukiwa mwema na mfanyakazi mzuri, watu watakutambua na kukutunukia heshima.",
+    "category": "Maadili",
+    "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-07-08T12:58:07.783Z"
+  },
+  {
+    "methali": "Chema chajiuza kibaya chajitembeza.",
+    "meaning": "Kitu kizuri chenye thamani kinatambulika kirahisi na kinapendwa bila kutumia nguvu nyingi kukitangaza.",
+    "lesson": "Tengeneza vitu bora au kuwa na tabia nzuri, watu watakutafuta. Kujipendekeza sana mara nyingi ni dalili ya udhaifu.",
+    "category": "Maadili",
+    "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=800&q=80",
+    "id": "57",
+    "createdAt": "2026-07-08T13:03:58.701Z"
+  },
+  {
+    "methali": "Chombo cha kuzama hakina usukani.",
+    "meaning": "Jambo ambalo limekosa mwelekeo au lililokusudiwa kuharibika, huwa haliwezi kudhibitiwa wala kuokolewa.",
+    "lesson": "Tunapaswa kujua wakati wa kukubali matokeo na kuacha kulazimisha mambo ambayo tayari yameshindikana.",
+    "category": "Uelewa",
+    "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&w=800&q=80",
+    "id": "58",
+    "createdAt": "2026-07-08T13:03:58.701Z"
+  },
+  {
+    "methali": "Chombo hakiendi ikiwa kila mtu anapiga makasia yake.",
+    "meaning": "Kazi haiwezi kufanikiwa ikiwa kila mtu anafanya mambo anavyotaka bila kushirikiana na kukubaliana na wenzake.",
+    "lesson": "Umoja ni nguvu. Katika kundi lolote, ushirikiano na maelewano ndio msingi mkuu wa kufikia malengo.",
+    "category": "Ushirikiano",
+    "image": "https://images.unsplash.com/photo-1469571486292-0ba58a3f068b?auto=format&fit=crop&w=800&q=80",
+    "id": "59",
+    "createdAt": "2026-07-08T13:03:58.701Z"
+  },
+  {
+    "methali": "Chovya chovya humaliza buyu ya asali.",
+    "meaning": "Kutumia kitu kidogokidogo kwa muda mrefu mwishowe hukimaliza kabisa bila kujali wingi wake wa awali.",
+    "lesson": "Tuwe waangalifu na matumizi yetu madogo madogo ya kila siku, kwani ndiyo yatakayomaliza akiba yetu. Jifunze kuweka akiba.",
+    "category": "Akili",
+    "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=800&q=80",
+    "id": "60",
+    "createdAt": "2026-07-08T13:03:58.701Z"
+  },
+  {
+    "methali": "Chui hakumbatiwi.",
+    "meaning": "Mtu au jambo lenye asili ya hatari sana halipaswi kukaribiwa au kuchezewa kwani litakuletea madhara makubwa.",
+    "lesson": "Jiepushe na marafiki waovu au mambo ya hatari; ukaribu nao utakuletea maangamizi.",
+    "category": "Uelewa",
+    "image": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=800&q=80",
+    "id": "61",
+    "createdAt": "2026-07-08T13:03:58.702Z"
+  },
+  {
+    "methali": "Chui naye ana mke.",
+    "meaning": "Hata mtu aliye mkali, katili au mwenye sura ya kutisha, ana upande wake wa upendo, huruma, au udhaifu.",
+    "lesson": "Tusiwahukumu watu kwa kuangalia tu ukali wao; kila mwanadamu ana moyo na hisia anapokuwa na watu anaowapenda.",
+    "category": "Maisha",
+    "image": "https://images.unsplash.com/photo-1470071131384-001b85755b36?auto=format&fit=crop&w=800&q=80",
+    "id": "62",
+    "createdAt": "2026-07-08T13:03:58.702Z"
+  },
+  {
+    "methali": "Chura huweza kumwua tembo.",
+    "meaning": "Kiumbe kidogo au mtu anayedharauliwa ana uwezo wa kumletea madhara makubwa au kumwangusha mwenye nguvu.",
+    "lesson": "Kamwe usimdharaue mtu yeyote kwa sababu ya udogo wake au kuonekana kwake mnyonge.",
+    "category": "Uelewa",
+    "image": "https://images.unsplash.com/photo-1544928147-79a2dbc1f389?auto=format&fit=crop&w=800&q=80",
+    "id": "63",
+    "createdAt": "2026-07-08T13:03:58.702Z"
+  },
+  {
+    "methali": "Dalili ya mvua ni mawingu.",
+    "meaning": "Jambo lolote kubwa au tukio huanza kujulikana kwa kuonyesha dalili au viashiria mapema kabla halijatokea.",
+    "lesson": "Tuwe wasikivu na waangalifu katika kusoma alama za nyakati ili kujiandaa vyema kwa mambo yajayo.",
+    "category": "Uelewa",
+    "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&w=800&q=80",
+    "id": "64",
+    "createdAt": "2026-07-08T13:03:58.702Z"
+  },
+  {
+    "methali": "Damu ni nzito kuliko maji.",
+    "meaning": "Uhusiano wa kindugu au damu una nguvu zaidi na hudumu kuliko uhusiano wa kirafiki au wa kawaida.",
+    "lesson": "Tunapaswa kuthamini na kutunza uhusiano wetu na familia zetu, kwani wao ni kimbilio letu la mwisho wakati wa matatizo.",
+    "category": "Jamii",
+    "image": "https://images.unsplash.com/photo-1511632765486-a96c7530e85b?auto=format&fit=crop&w=800&q=80",
+    "id": "65",
+    "createdAt": "2026-07-08T13:03:58.702Z"
+  },
+  {
+    "methali": "Daraja livuke ulifikiapo.",
+    "meaning": "Tatua tatizo linapotokea mbele yako; usihangaike na kujipa hofu juu ya mambo ambayo bado hayajatokea.",
+    "lesson": "Ishi wakati uliopo na ufanye kile unachoweza leo. Usijitese kwa hofu ya matatizo ya kesho.",
+    "category": "Subira",
+    "image": "https://images.unsplash.com/photo-1447069387593-a5de0862481e?auto=format&fit=crop&w=800&q=80",
+    "id": "66",
+    "createdAt": "2026-07-08T13:03:58.702Z"
+  },
+  {
+    "methali": "Daraja ukilibomoa ujue kuogolea.",
+    "meaning": "Ikiwa unaharibu uhusiano au njia inayokusaidia kuvuka magumu, hakikisha una uwezo wa kujitegemea kikamilifu.",
+    "lesson": "Usivunje urafiki au uhusiano na watu wanaokusaidia ikiwa huna uwezo wa kujisimamia peke yako.",
+    "category": "Uelewa",
+    "image": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=800&q=80",
+    "id": "67",
+    "createdAt": "2026-07-08T13:03:58.703Z"
+  },
+  {
+    "methali": "Dau la mnyonge haliendi joshi.",
+    "meaning": "Chombo cha mtu maskini hakiwezi kushindana kasi na chombo cha tajiri; mtu mnyonge mara nyingi hupata shida kufikia malengo yake kwa urahisi.",
+    "lesson": "Ikiwa huna uwezo mkubwa, usilazimishe kushindana na wenye nguvu zao; tumia akili na subira kufika unakotaka.",
+    "category": "Uelewa",
+    "image": "https://images.unsplash.com/photo-1544928147-79a2dbc1f389?auto=format&fit=crop&w=800&q=80",
+    "id": "68",
+    "createdAt": "2026-07-08T13:03:58.703Z"
+  },
+  {
+    "methali": "Dawa kubwa ya hasira ni kuchelea.",
+    "meaning": "Njia bora ya kutuliza hasira ni kuvuta subira na kutoa muda badala ya kukurupuka kutoa uamuzi hapo hapo.",
+    "lesson": "Unapokuwa na hasira, nyamaza au chukua muda wa kutafakari. Maamuzi ya hasira mara nyingi huleta majuto.",
+    "category": "Utulivu",
+    "image": "https://images.unsplash.com/photo-1515694346937-94d85e41e6f0?auto=format&fit=crop&w=800&q=80",
+    "id": "69",
+    "createdAt": "2026-07-08T13:03:58.704Z"
+  },
+  {
+    "methali": "Dawa ya moto ni moto.",
+    "meaning": "Tatizo gumu au mtu mkorofi anapaswa kukabiliwa kwa nguvu au ukali unaolingana na ukorofi huo.",
+    "lesson": "Wakati mwingine upole hausaidii; ili kutatua mzozo mzito au kumkabili mdhalimu, unahitaji kuwa imara na mkali.",
+    "category": "Ujasiri",
+    "image": "https://images.unsplash.com/photo-1517849845537-4d257902454a?auto=format&fit=crop&w=800&q=80",
+    "id": "70",
+    "createdAt": "2026-07-08T13:03:58.704Z"
+  },
+  {
+    "methali": "Debe tupu haliachi kutika.",
+    "meaning": "Kitu kitupu hupiga kelele nyingi; mtu asiye na maarifa au hekima mara nyingi hupenda kuongea sana na kujionyesha.",
+    "lesson": "Pima watu kwa vitendo vyao, si kwa kelele au maneno yao mengi. Wenye busara huongea machache na kufanya mengi.",
+    "category": "Akili",
+    "image": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=800&q=80",
+    "id": "71",
+    "createdAt": "2026-07-08T13:03:58.704Z"
+  },
+  {
+    "methali": "Dua la kuku halimpati mwewe.",
+    "meaning": "Maneno mabaya, laana, au chuki za mtu mnyonge haziwezi kumletea madhara mtu aliye na nguvu na usalama wake.",
+    "lesson": "Usihofu maneno au laana za watu wenye husuda; endelea kufanya yaliyo mema na kujilinda.",
+    "category": "Uelewa",
+    "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&w=800&q=80",
+    "id": "72",
+    "createdAt": "2026-07-08T13:03:58.704Z"
+  },
+  {
+    "methali": "Dudu liumalo usilipe kidole.",
+    "meaning": "Usimkaribie mtu au jambo unalojua kabisa litakuletea madhara au maumivu.",
+    "lesson": "Jiepushe na vishawishi na mambo hatari. Kujiingiza kimakusudi katika matatizo ni ukosefu wa busara.",
+    "category": "Uelewa",
+    "image": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=800&q=80",
+    "id": "73",
+    "createdAt": "2026-07-08T13:03:58.704Z"
+  },
+  {
+    "methali": "Elimu maisha si vitabu.",
+    "meaning": "Elimu ya kweli ni jinsi unavyokabiliana na changamoto za maisha na kuishi vizuri na watu, na sio tu kuwa na vyeti vya shule.",
+    "lesson": "Usijisifu kwa elimu ya darasani pekee; tumia maarifa yako kuboresha maisha yako na ya wengine vitendoni.",
+    "category": "Akili",
+    "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&w=800&q=80",
+    "id": "74",
+    "createdAt": "2026-07-08T13:03:58.704Z"
+  },
+  {
+    "methali": "Elimu ni mwangaza gizani hung'aa.",
+    "meaning": "Elimu ndiyo inayoondoa ujinga (giza) na kumpa mtu muongozo na ufahamu katika maisha.",
+    "lesson": "Tafuta elimu kwa bidii, kwani ndiyo itakayokusaidia kufanya maamuzi sahihi na kukuepusha na umaskini wa fikra.",
+    "category": "Akili",
+    "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=800&q=80",
+    "id": "75",
+    "createdAt": "2026-07-08T13:03:58.704Z"
+  },
+  {
+    "methali": "Epuka wakusifuo siku zote.",
+    "meaning": "Watu wanaokusifia kila wakati, hata unapokosea, mara nyingi ni wanafiki na hawatakutakia mema ya kweli.",
+    "lesson": "Jihadhari na marafiki wasioweza kukukosoa; rafiki wa kweli ni yule anayekuonya unapopotea.",
+    "category": "Maadili",
+    "image": "https://images.unsplash.com/photo-1544928147-79a2dbc1f389?auto=format&fit=crop&w=800&q=80",
+    "id": "76",
+    "createdAt": "2026-07-08T13:03:58.704Z"
+  },
+  {
+    "methali": "Fadhila ya punda ni mashuzi.",
+    "meaning": "Watu wasio na shukrani huwalipa waliowatendea wema kwa kuwafanyia mambo mabaya na yenye kuumiza.",
+    "lesson": "Usitegemee malipo au shukrani kila unapotenda wema. Tenda mema kwa ajili ya utu wako, sio kwa kutegemea sifa.",
+    "category": "Maadili",
+    "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&w=800&q=80",
+    "id": "77",
+    "createdAt": "2026-07-08T13:03:58.704Z"
+  },
+  {
+    "methali": "Farasi hamuwawezi, tembo mtawalishani?",
+    "meaning": "Ikiwa mmeshindwa kutatua tatizo dogo, hamtaweza kukabiliana na tatizo kubwa zaidi.",
+    "lesson": "Usijipe majukumu makubwa yanayozidi uwezo wako kabla hujajifunza kumudu majukumu madogo uliyonayo.",
+    "category": "Uelewa",
+    "image": "https://images.unsplash.com/photo-1544928147-79a2dbc1f389?auto=format&fit=crop&w=800&q=80",
+    "id": "78",
+    "createdAt": "2026-07-08T13:03:58.704Z"
+  },
+  {
+    "methali": "Fimbo ya mbali haiuwi nyoka.",
+    "meaning": "Msaada ulio mbali hauwezi kukusaidia kutatua tatizo la dharura lililopo karibu yako.",
+    "lesson": "Thamini watu na vitu vilivyo karibu nawe; ndivyo vitakavyokusaidia haraka wakati wa shida.",
+    "category": "Uelewa",
+    "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&w=800&q=80",
+    "id": "79",
+    "createdAt": "2026-07-08T13:03:58.704Z"
+  },
+  {
+    "methali": "Fuata nyuki ufe mzingani.",
+    "meaning": "Ukiamua kuiga au kufuata mambo hatari yanayofanywa na wengine, utaishia kupata madhara makubwa.",
+    "lesson": "Jiepushe na kufuata mikumbo inayoweza kukuhatarishia maisha au mustakabali wako.",
+    "category": "Maadili",
+    "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=800&q=80",
+    "id": "80",
+    "createdAt": "2026-07-08T13:03:58.704Z"
+  },
+  {
+    "methali": "Fuata nyuki ule asali.",
+    "meaning": "Ikiwa utaambatana na watu wenye bidii na hekima, utajifunza kwao na hatimaye kufaidika na mafanikio yao.",
+    "lesson": "Chagua marafiki wazuri; ukikaa na wenye hekima, nawe utakuwa na hekima na utafanikiwa.",
+    "category": "Akili",
+    "image": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=800&q=80",
+    "id": "81",
+    "createdAt": "2026-07-08T13:03:58.704Z"
+  },
+  {
+    "methali": "Fumbo mfumbie mjinga, mwerevu huligangua.",
+    "meaning": "Mtu mpumbavu hataelewa onyo lililofichwa, lakini mtu mwerevu atang'amua maana iliyojificha haraka sana.",
+    "lesson": "Zungumza kwa lugha inayoendana na akili ya anayesikiliza. Mwerevu anahitaji ishara tu, mjinga anahitaji ufafanuzi.",
+    "category": "Akili",
+    "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&w=800&q=80",
+    "id": "82",
+    "createdAt": "2026-07-08T13:03:58.704Z"
+  },
+  {
+    "methali": "Ganda la muwa la jana chungu kaona kivuno.",
+    "meaning": "Kitu ambacho wewe unakidharau na kukiona hakina thamani leo, kwa mtu mwingine mwenye shida ni hazina kubwa.",
+    "lesson": "Thamini kile ulichonacho na ujifunze kushukuru, kwani kuna watu wengi wanaotamani kupata japo kidogo tu cha kwako.",
+    "category": "Maisha",
+    "image": "https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?auto=format&fit=crop&w=800&q=80",
+    "id": "83",
+    "createdAt": "2026-07-08T13:03:58.704Z"
+  },
+  {
+    "methali": "Gome la udi si la mnuka uvundo.",
+    "meaning": "Kitu kizuri na chenye asili nzuri kitaendelea kuwa kizuri hata kikiwa katika hali gani; hakiwezi kutoa harufu mbaya.",
+    "lesson": "Mtu mwema na mwenye asili njema hata katika shida atabaki na wema wake. Asili haipotei.",
+    "category": "Maadili",
+    "image": "https://images.unsplash.com/photo-1544928147-79a2dbc1f389?auto=format&fit=crop&w=800&q=80",
+    "id": "84",
+    "createdAt": "2026-07-08T13:03:58.704Z"
+  },
+  {
+    "methali": "Haba na haba hujaza kibaba.",
+    "meaning": "Kitu kinachokusanywa kidogokidogo kwa mwendelezo, hatimaye huwa kikubwa sana na huleta matokeo makubwa.",
+    "lesson": "Usidharau akiba ndogo au juhudi ndogo. Endelea kufanya kwa uendelevu na utaona mafanikio makubwa.",
+    "category": "Subira",
+    "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=800&q=80",
+    "id": "85",
+    "createdAt": "2026-07-08T13:03:58.704Z"
+  },
+  {
+    "methali": "Hafriti hafichiki.",
+    "meaning": "Mtu mwenye tabia mbaya, mkorofi, au mfitini hata akijaribu kujificha namna gani, tabia yake itajitokeza tu wazi.",
+    "lesson": "Tabia ya kweli ya mtu haiwezi kufichwa kwa muda mrefu. Uovu utajitenga waziwazi mbele ya jamii.",
+    "category": "Maadili",
+    "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&w=800&q=80",
+    "id": "86",
+    "createdAt": "2026-07-08T13:03:58.704Z"
+  },
+  {
+    "methali": "Hakuna marefu yasiyo na mwisho.",
+    "meaning": "Hakuna shida, safari, au jambo lolote linaloanza ambalo halitafika mwisho wake; yote hupita.",
+    "lesson": "Kuwa na subira unapokuwa kwenye shida au majaribu, kwani hayo pia yana mwisho wake. Hakuna la kudumu.",
+    "category": "Subira",
+    "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?auto=format&fit=crop&w=800&q=80",
+    "id": "87",
+    "createdAt": "2026-07-08T13:03:58.704Z"
+  },
+  {
+    "methali": "Hakuna masika yasiyokuwa na mbu.",
+    "meaning": "Katika kila kipindi kizuri au cha mafanikio (masika), lazima kutakuwa na changamoto au kero ndogo ndogo (mbu).",
+    "lesson": "Jifunze kuvumilia kasoro ndogo zinazokuja na mafanikio au mambo mazuri. Kila uzuri una upungufu wake.",
+    "category": "Uelewa",
+    "image": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=800&q=80",
+    "id": "88",
+    "createdAt": "2026-07-08T13:03:58.704Z"
+  },
+  {
+    "methali": "Hakuna siri ya watu wawili.",
+    "meaning": "Siri ambayo imesemwa na zaidi ya mtu mmoja si siri tena; hatimaye itavuja na kujulikana kwa wengine.",
+    "lesson": "Ikiwa unataka jambo lako libaki kuwa siri, basi litunze moyoni mwako peke yako.",
+    "category": "Maadili",
+    "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=800&q=80",
+    "id": "89",
+    "createdAt": "2026-07-08T13:03:58.704Z"
+  },
+  {
+    "methali": "Haraka haraka haina baraka.",
+    "meaning": "Kufanya mambo kwa pupa na uharaka husababisha makosa, hasara, na matokeo duni.",
+    "lesson": "Fanya mambo kwa utulivu na umakini ili kupata matokeo bora na ya kudumu.",
+    "category": "Utulivu",
+    "image": "https://images.unsplash.com/photo-1475924156734-49818ce52011?auto=format&fit=crop&w=800&q=80",
+    "id": "90",
+    "createdAt": "2026-07-08T13:03:58.704Z"
+  },
+  {
+    "methali": "Hasira hasara.",
+    "meaning": "Mtu anayefanya uamuzi au kuchukua hatua akiwa na hasira, daima huishia kupata hasara au majuto.",
+    "lesson": "Jifunze kuzuia hasira zako; usitoe maamuzi muhimu au kusema maneno makali ukiwa umekasirika.",
+    "category": "Utulivu",
+    "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=800&q=80",
+    "id": "91",
+    "createdAt": "2026-07-08T13:03:58.704Z"
+  },
+  {
+    "methali": "Hatua ndefu hufupisha mwendo.",
+    "meaning": "Kuchukua hatua kubwa au kufanya juhudi ya ziada kunapunguza muda wa kufikia lengo lako.",
+    "lesson": "Bidii na kujituma zaidi hukusaidia kufanikisha mambo kwa haraka zaidi badala ya kulegalega.",
+    "category": "Kazi",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?auto=format&fit=crop&w=800&q=80",
+    "id": "92",
+    "createdAt": "2026-07-08T13:03:58.704Z"
+  },
+  {
+    "methali": "Heri kenda shika kuliko kumi nenda rudi.",
+    "meaning": "Ni bora kuwa na uhakika wa kupata kitu kidogo mkononi (kenda shika) kuliko kuahidiwa vitu vingi visivyo na uhakika.",
+    "lesson": "Thamini kile ulichonacho sasa kuliko kutupa kwa tamaa ya vitu vikubwa ambavyo havipo.",
+    "category": "Maisha",
+    "image": "https://images.unsplash.com/photo-1502472584811-0a2f2feb8968?auto=format&fit=crop&w=800&q=80",
+    "id": "93",
+    "createdAt": "2026-07-08T13:03:58.705Z"
+  },
+  {
+    "methali": "Heri kufa macho kuliko kufa moyo.",
+    "meaning": "Ni afadhali mtu apoteze uwezo wa kuona (kuwa kipofu) kuliko kupoteza ujasiri na matumaini ya kuishi.",
+    "lesson": "Matumaini na ujasiri moyoni ndio msingi wa uhai; usikate tamaa hata upitapo kwenye majaribu magumu kiasi gani.",
+    "category": "Ujasiri",
+    "image": "https://images.unsplash.com/photo-1522204523234-8729aa6e3d5f?auto=format&fit=crop&w=800&q=80",
+    "id": "94",
+    "createdAt": "2026-07-08T13:03:58.705Z"
+  },
+  {
+    "methali": "Heri kujikwaa kidole kuliko kujikwaa ulimi.",
+    "meaning": "Jeraha la kujikwaa mguu litapona, lakini maneno mabaya unayoyatamka (kujikwaa ulimi) yatasababisha maumivu ya kudumu.",
+    "lesson": "Pima maneno yako kabla hujayatamka; maneno mabaya huacha makovu yasiyofutika katika mioyo ya watu.",
+    "category": "Maadili",
+    "image": "https://images.unsplash.com/photo-1544928147-79a2dbc1f389?auto=format&fit=crop&w=800&q=80",
+    "id": "95",
+    "createdAt": "2026-07-08T13:03:58.705Z"
+  },
+  {
+    "methali": "Heri nitakula na nini kuliko nitakula nini.",
+    "meaning": "Ni afadhali kuwa na chakula lakini ukakosa kitoweo, kuliko kukosa chakula kabisa.",
+    "lesson": "Tujifunze kushukuru kwa kile kidogo tulichopata, badala ya kulalamika juu ya mapungufu madogo.",
+    "category": "Maisha",
+    "image": "https://images.unsplash.com/photo-1470071131384-001b85755b36?auto=format&fit=crop&w=800&q=80",
+    "id": "96",
+    "createdAt": "2026-07-08T13:03:58.705Z"
+  },
+  {
+    "methali": "Heri ya mrama kuliko kuzama.",
+    "meaning": "Ni bora chombo (kama mtumbwi) kiyumbe na kuleta hofu, kuliko chombo hicho kuzama kabisa na kupoteza maisha.",
+    "lesson": "Changamoto na matatizo madogo yanayotikisa ni bora kuliko maangamizi kamili. Vumilia mawimbi.",
+    "category": "Subira",
+    "image": "https://images.unsplash.com/photo-1447069387593-a5de0862481e?auto=format&fit=crop&w=800&q=80",
+    "id": "97",
+    "createdAt": "2026-07-08T13:03:58.705Z"
+  },
+  {
+    "methali": "Hisani haiozi.",
+    "meaning": "Tendo jema ambalo umemtendea mtu litaendelea kukumbukwa na kuthaminiwa; halipotei wala kusahaulika kabisa.",
+    "lesson": "Tenda mema kila unapopata nafasi. Wema hujilipa, hata kama ni baada ya miaka mingi kupita.",
+    "category": "Ukarimu",
+    "image": "https://images.unsplash.com/photo-1531206715517-5c0ba140b2b8?auto=format&fit=crop&w=800&q=80",
+    "id": "98",
+    "createdAt": "2026-07-08T13:03:58.705Z"
+  },
+  {
+    "methali": "Ila ya kikwapa kunuka pasipo kidonda.",
+    "meaning": "Kasoro ya mtu inaweza kujitokeza waziwazi na kumletea aibu bila hata kuwa na sababu ya dhahiri au msingi mzito.",
+    "lesson": "Tambua kwamba kila mtu ana mapungufu yake ya asili; weka bidii kujirekebisha na kuvumilia kasoro za wengine.",
+    "category": "Maadili",
+    "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&w=800&q=80",
+    "id": "99",
+    "createdAt": "2026-07-08T13:03:58.705Z"
+  },
+  {
+    "methali": "Iliyopita si ndwele, ganga ijayo.",
+    "meaning": "Jambo ambalo limeshapita na kutokea halipaswi kukutesa (si ugonjwa); badala yake elekeza nguvu zako kutatua mambo yajayo.",
+    "lesson": "Tusiishi kwenye majuto ya mambo yaliyopita. Jifunze kutokana nayo kisha songa mbele na maisha.",
+    "category": "Maisha",
+    "image": "https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?auto=format&fit=crop&w=800&q=80",
+    "id": "100",
+    "createdAt": "2026-07-08T13:03:58.705Z"
+  },
+  {
+    "methali": "Imara ya jembe kaingoje shamba.",
+    "meaning": "Ubora wa jembe au zana yoyote hupimwa kwa vitendo (shambani), si kwa muonekano wake tu.",
+    "lesson": "Uwezo wa mtu hupimwa kupitia utendaji wake wa kazi, na si kwa maneno matupu au jinsi anavyoonekana.",
+    "category": "Kazi",
+    "image": "https://images.unsplash.com/photo-1425913397330-cf8af2ff40a1?auto=format&fit=crop&w=800&q=80",
+    "id": "101",
+    "createdAt": "2026-07-08T13:03:58.705Z"
+  },
+  {
+    "methali": "Ipunguzwayo ni iliyojaa.",
+    "meaning": "Kitu chenye ujazo mwingi au uwezo mkubwa ndicho huwa na nafasi ya kupunguzwa; mwenye nacho ndiye anayeweza kutoa.",
+    "lesson": "Mtu aliyebarikiwa na mali au hekima anatarajiwa asaidie wengine kwa kutoa sehemu ya alichonacho.",
+    "category": "Maisha",
+    "image": "https://images.unsplash.com/photo-1502472584811-0a2f2feb8968?auto=format&fit=crop&w=800&q=80",
+    "id": "102",
+    "createdAt": "2026-07-08T13:03:58.705Z"
+  },
+  {
+    "methali": "Isipokuwasha hujairamba.",
+    "meaning": "Ikiwa jambo fulani halijakuathiri au kukupa maumivu, basi bado hujalijaribu au kulikabili kwa undani.",
+    "lesson": "Huwezi kujua ugumu wa jambo mpaka ulijaribu wewe mwenyewe; usiwahukumu wale waliokata tamaa.",
+    "category": "Uelewa",
+    "image": "https://images.unsplash.com/photo-1544928147-79a2dbc1f389?auto=format&fit=crop&w=800&q=80",
+    "id": "103",
+    "createdAt": "2026-07-08T13:03:58.706Z"
+  },
+  {
+    "methali": "Jambo usilolijua ni kama usiku wa giza.",
+    "meaning": "Kitu ambacho hukijui au huna maarifa nacho, kinakufanya uwe kama mtu anayetembea gizani bila mwelekeo.",
+    "lesson": "Elimu na ufahamu ni mwangaza. Jifunze na kutafuta maarifa ili usibaki gizani na kupotea njia.",
+    "category": "Akili",
+    "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=800&q=80",
+    "id": "104",
+    "createdAt": "2026-07-08T13:03:58.706Z"
+  },
+  {
+    "methali": "Jicho halina pazia.",
+    "meaning": "Macho huona kila kitu kilicho wazi, kiwe kizuri au kibaya, na hayawezi kuzuiwa yasione kile kilichopo mbele yake.",
+    "lesson": "Hakikisha unafanya mambo yako ya siri kwa faragha, kwani macho ya watu yataona kila unachofanya waziwazi.",
+    "category": "Maadili",
+    "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=800&q=80",
+    "id": "105",
+    "createdAt": "2026-07-08T13:03:58.706Z"
+  },
+  {
+    "methali": "Jino la pembe si dawa ya pengo.",
+    "meaning": "Kitu cha kuiga au mbadala wa bandia hauwezi kuziba kikamilifu pengo la kitu halisi kilichopotea.",
+    "lesson": "Thamini watu wako wa karibu na vitu vyako asili; vikiondoka, watu mbadala hawataweza kuziba nafasi yao kwa ufasaha.",
+    "category": "Maisha",
+    "image": "https://images.unsplash.com/photo-1470071131384-001b85755b36?auto=format&fit=crop&w=800&q=80",
+    "id": "106",
+    "createdAt": "2026-07-08T13:03:58.706Z"
+  }
+]
