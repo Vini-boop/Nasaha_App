@@ -18,6 +18,7 @@
       "bundleIdentifier": "com.nasaha.app"
     },
     "android": {
+      "usesCleartextTraffic": true,
       "adaptiveIcon": {
         "foregroundImage": "./assets/icon-nasaha.png",
         "backgroundColor": "#285D6C"
