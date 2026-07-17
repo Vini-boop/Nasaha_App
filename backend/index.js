@@ -302,6 +302,7 @@ app.post('/api/dibaji', verifyToken, async (req, res) => {
     cache.del('dibaji');
     // Invalidate date-keyed rotation cache so the new dibaji pool is seen immediately
     cache.keys().forEach(k => { if (k.startsWith('dibaji_current_')) cache.del(k); });
+    await pool.query("DELETE FROM dibaji_rotation WHERE id = 'global'");
     await createNotification(`Dibaji mpya imeongezwa: "${text.substring(0, 50)}..."`, 'DIBAJI_ADDED');
     sendMassPushNotification('Dibaji Mpya Imeongezwa!', text.substring(0, 100) + (text.length > 100 ? '...' : ''), 'dibaji_added', id).catch(err => console.error(err));
     res.status(201).json(result.rows[0]);
@@ -331,6 +332,7 @@ app.put('/api/dibaji/:id', verifyToken, async (req, res) => {
     if (result.rows.length === 0) return res.status(404).json({ error: 'Not found' });
     cache.del('dibaji');
     cache.keys().forEach(k => { if (k.startsWith('dibaji_current_')) cache.del(k); });
+    await pool.query("DELETE FROM dibaji_rotation WHERE id = 'global'");
     res.json(result.rows[0]);
   } catch (err) {
     res.status(500).json({ error: err.message });
@@ -351,6 +353,7 @@ app.delete('/api/dibaji/:id', verifyToken, async (req, res) => {
     if (result.rows.length === 0) return res.status(404).json({ error: 'Not found' });
     cache.del('dibaji');
     cache.keys().forEach(k => { if (k.startsWith('dibaji_current_')) cache.del(k); });
+    await pool.query("DELETE FROM dibaji_rotation WHERE id = 'global'");
     res.json({ success: true });
   } catch (err) {
     res.status(500).json({ error: err.message });
