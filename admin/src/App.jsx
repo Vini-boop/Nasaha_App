@@ -14,7 +14,7 @@ import NotificationsPanel from './components/NotificationsPanel';
 import Login from './components/Login';
 import { useAuth } from './context/AuthContext';
 import './App.css';
-import './components/Login.css';
+import './components/login.css';
 
 const NAV_ITEMS = [
   { id: 'dashboard', label: 'Dashibodi', icon: LayoutDashboard },
