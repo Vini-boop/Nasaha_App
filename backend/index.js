@@ -34,19 +34,8 @@ const requireAdmin = async (req, res, next) => {
     res.status(403).json({ error: 'Forbidden: Admins only' });
   }
 };
-const uploadDir = path.join(__dirname, 'uploads');
-if (!fs.existsSync(uploadDir)) {
-  fs.mkdirSync(uploadDir);
-}
-
-const storage = multer.diskStorage({
-  destination: function (req, file, cb) {
-    cb(null, uploadDir);
-  },
-  filename: function (req, file, cb) {
-    cb(null, Date.now() + '-' + file.originalname);
-  }
-});
+// Use memory storage to save files to the database as binary data (BYTEA)
+const storage = multer.memoryStorage();
 const upload = multer({ storage: storage });
 
 const app = express();
@@ -59,6 +48,12 @@ const pool = new Pool({
 });
 
 pool.query(`
+  CREATE TABLE IF NOT EXISTS images (
+    id TEXT PRIMARY KEY,
+    data BYTEA NOT NULL,
+    mimetype TEXT NOT NULL,
+    "createdAt" TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+  );
   CREATE TABLE IF NOT EXISTS settings (
     id TEXT PRIMARY KEY,
     "adminEmail" TEXT,
@@ -190,18 +185,43 @@ async function sendMassPushNotification(title, body, type, id) {
 // ── Middleware ────────────────────────────────────────────────────────────────
 app.use(cors({ origin: '*' }));
 app.use(express.json({ limit: '50mb' }));
-app.use('/uploads', express.static(uploadDir));
 
 // ── File Upload Endpoint ──────────────────────────────────────────────────────
-app.post('/api/upload', upload.single('image'), (req, res) => {
+app.post('/api/upload', upload.single('image'), async (req, res) => {
   try {
     if (!req.file) {
       return res.status(400).json({ error: 'No image uploaded' });
     }
-    const imageUrl = `/uploads/${req.file.filename}`;
+    
+    // Store image in Neon database
+    const imageId = uuidv4();
+    await pool.query(
+      'INSERT INTO images (id, data, mimetype) VALUES ($1, $2, $3)',
+      [imageId, req.file.buffer, req.file.mimetype]
+    );
+
+    const imageUrl = `/api/images/${imageId}`;
     res.json({ url: imageUrl });
   } catch (error) {
+    console.error('Error uploading image to DB:', error);
     res.status(500).json({ error: error.message });
+  }
+});
+
+// ── Image Serve Endpoint ──────────────────────────────────────────────────────
+app.get('/api/images/:id', async (req, res) => {
+  try {
+    const result = await pool.query('SELECT data, mimetype FROM images WHERE id = $1', [req.params.id]);
+    if (result.rows.length === 0) {
+      return res.status(404).send('Image not found');
+    }
+    
+    const image = result.rows[0];
+    res.setHeader('Content-Type', image.mimetype);
+    res.send(image.data);
+  } catch (error) {
+    console.error('Error serving image:', error);
+    res.status(500).send('Internal Server Error');
   }
 });
 
